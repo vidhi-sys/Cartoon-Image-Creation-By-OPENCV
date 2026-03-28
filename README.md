@@ -1,4 +1,4 @@
-# CartoonLens — Image Cartoonizer
+# CartoonLens   Image Cartoonizer
 
 A Computer Vision command-line tool that converts any real photograph into classic cartoon-style art using OpenCV.  
 Built as part of the **Bring Your Own Project (BYOP)** component for the flipped course at VIT Bhopal University.
@@ -57,7 +57,7 @@ You should see something like `Python 3.10.x`. If not, download it from https://
 ### Step 2 — Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/image-cartoonizer.git
+git clone //https://github.com/vidhi-sys/Cartoon-Image-Creation-By-OPENCV.git
 cd image-cartoonizer
 ```
 
